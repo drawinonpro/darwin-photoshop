@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<p title="tarea'html">
+<p title="sugestion">
+</head>
+<body style="background-color:yellow;">
+
+<h1 style="font-size:80px;color:blue;font-family:verdana;" "text-align:center;" >mac'burgers es el mejor sitio donde comer en familia </h1>
+<h2 style="font-size:10px;color:red;font-family:courier;">hamb</h2>
+<h3 style="font-size:20px;color:green;font-family:calibri;">competencia</h3>
+<h4 style="font-size:50px;color:gray;font-family:algerian;">compañia</h4>
+<h5 style="font-size:30px;color:black;font-family:ahoroni;">celular</h5>
+<h6 style="font-size:40px;color:orange;font-family:arial;">LG G8 ThinQ </h6>
+<hr>
+<b> es una gran empresa a nivel nacional</b>
+<hr>
+<strong>caja feliz</strong>
+<hr>
+<i>gran punto de comidas rapidas</i>
+<hr>
+<em>buena comida a bajos precios</em>
+<hr>
+<mark>no hay nada igual</mark>
+<hr>
+<no hay nada igual>no hay comparacion</small>
+<hr>
+<lo mejor>cuando vas de paseo</del>
+<hr>
+<ins>boom a nivel nacional</ins>
+<hr>
+<sub>comida al instante</sub>
+<hr>
+<sup>no hay comparacion de receta</sup>
+
+<p style="color:red;font-size:70px">mac'donals es uno de los restaurantes  <br>de comidas rapidas mas ricas a nivel nacional e internacional <br>ofreciendo  “mejor calidad” para mejorar la<br>la union entre familias,amigos y novios <br>ya que si llevas a alguien alla eso es una buena opcion para premiar a alguien.</p>
+<hr>
+<a href="https://www.google.com/search?q=mac+burger&oq=macbur&aqs=chrome.2.69i57j0l5.5658j0j7&sourceid=chrome&ie=UTF-8</a>
+<img src="descarga.jpg" width="500" height="600"> alt="imagen de hamburguesa">
